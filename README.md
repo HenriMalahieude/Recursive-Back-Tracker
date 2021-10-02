@@ -8,4 +8,4 @@ The third version (pathfinder.cpp) was quickly made after newVersion.cpp because
 
 ![image](https://user-images.githubusercontent.com/71425015/135710043-e356d38b-5f1e-4c56-a38a-15c12249dc4f.png)
 
-Working Code Example: https://replit.com/@hephaestus/Random-Maze-Generator#main.cpp
+Working Code Example for Old Version: https://replit.com/@hephaestus/Random-Maze-Generator#main.cpp
