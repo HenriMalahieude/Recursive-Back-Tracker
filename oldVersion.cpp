@@ -1,4 +1,4 @@
-//Programmed by Henri Malahieude in 2017
+//Designed in 2017
 #include <iostream>
 #include <vector>
 #include <string>
