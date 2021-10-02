@@ -1,7 +1,11 @@
 # Recursive-Back-Tracker
 
-Designed as a challenge for myself to create a random maze without using any classes back in 2017.
+The first version (oldVersion.cpp) I designed as a challenge for myself to create a random maze without using any classes back in 2017.
 
-![image](https://user-images.githubusercontent.com/71425015/135584909-8e6badc8-212d-407f-bf56-77acf8c19154.png)
+The second version (newVersion.cpp) I decided to rewrite the entire oldVersion.cpp because it was inefficient and I learned some new tricks since then.
+
+The third version (pathfinder.cpp) was quickly made after newVersion.cpp because I wasn't satisfied with a simple rewrite.
+
+![image](https://user-images.githubusercontent.com/71425015/135710043-e356d38b-5f1e-4c56-a38a-15c12249dc4f.png)
 
 Working Code Example: https://replit.com/@hephaestus/Random-Maze-Generator#main.cpp
